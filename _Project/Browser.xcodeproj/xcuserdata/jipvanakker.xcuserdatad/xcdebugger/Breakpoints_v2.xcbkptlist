@@ -42,8 +42,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "67"
             endingLineNumber = "67"
-            landmarkName = "-browser_fallbackBounds"
-            landmarkType = "7">
+            landmarkName = "BrowserFullscreenHackInstanceMethod(object, selectorName)"
+            landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
